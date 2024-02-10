@@ -1,0 +1,44 @@
+---
+import Layout from "@/layouts/Layout.astro";
+
+import About from "@/components/sections/About.astro";
+import Education from "@/components/sections/Education.astro";
+import Experience from "@/components/sections/Experience.astro";
+import Hero from "@/components/sections/Hero.astro";
+import Projects from "@/components/sections/Projects.astro";
+import Skills from "@/components/sections/Skills.astro";
+import KeyboardManager from "@/components/KeyboardManager.astro";
+import { getI18n, type Language } from '@cv/index';
+
+const { currentLocale } = Astro;
+
+const i18n = getI18n(currentLocale as Language);
+
+const { basics, work, education, skills, projects, sections, keyboard_manager } = i18n;
+const { name, label, summary, profiles } = basics;
+
+
+const langs = [{label: 'English', href: '/en'}, {label: 'Spanish', href: '/'}];
+
+
+---
+
+<Layout title=`Portfolio of ${name} - ${label}`>
+	<main>
+    <Hero basics={basics}/>
+    <About summary={summary} title={sections[0]}/>
+    <Experience work={work} title={sections[1]}/>
+    <Education education={education} title={sections[2]}/>
+    <Skills skills={skills} title={sections[3]}/>
+    <Projects projects={projects} title={sections[4]}/>
+  </main>
+  <KeyboardManager languages={langs} profiles={profiles} keyboard_manager={keyboard_manager}/>
+</Layout>
+
+<style>
+  main {
+    padding: 4rem;
+    margin: auto;
+    width: 100%;
+  }
+</style>

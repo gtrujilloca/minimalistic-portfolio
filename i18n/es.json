@@ -1,0 +1,315 @@
+{
+  "basics": {
+    "name": "Carlos Alberto García Trujillo",
+    "label": "Desarrollador Frontend",
+    "image": "/me.webp",
+    "email": "gtrujilloca@gmail.com",
+    "phone": "+57 3013116212",
+    "url": "https://",
+    "summary": "+2 años de experiencia como Desarrollador Frontend. Vivo en Colombia, Manizales. He trabajado en diferentes entornos, apoyando en diferentes proyectos de empresas multinacionales.",
+    "location": {
+      "address": "",
+      "postalCode": "170002",
+      "city": "Manizales",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "carlos-garcia",
+        "url": "https://www.linkedin.com/in/carlos-garcia-a57824176/"
+      },
+      {
+        "network": "X",
+        "username": "Carlos_G4rcia",
+        "url": "https://x.com/Carlos_G4rcia"
+      },
+      {
+        "network": "Github",
+        "username": "gtrujilloca",
+        "url": "https://github.com/gtrujilloca"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pragma",
+      "position": "Desarrollador Frontend",
+      "url": "https://www.pragma.co/",
+      "startDate": "2022-07-01",
+      "endDate": null,
+      "summary": "Desarrollo de aplicaciones con Angular and React para diferentes clientes tercerizados.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Easynet",
+      "position": "Desarrollador Frontend",
+      "url": "https://easynet.com.co/",
+      "startDate": "2021-06-01",
+      "endDate": "2022-06-20",
+      "summary": "Soporte de aplicaciones internas con Angular.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Freedom center",
+      "position": "Desarrollador",
+      "url": "https://freedomcenter.com.co/",
+      "startDate": "2020-06-01",
+      "endDate": "2021-05-01",
+      "summary": "Desarrollo y soporte de aplicaciones para cliente Europeo tercerizado con nodejs y graphql.",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Manizales",
+      "url": "https://umanizales.edu.co/",
+      "area": "Ingeniería de sistemas y telecomunicaciones",
+      "studyType": "Pregado",
+      "startDate": "2016-02-01",
+      "endDate": "2021-02-01",
+      "score": "4.0",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "SENA",
+      "url": "https://www.sena.edu.co/es-co/Paginas/default.aspx",
+      "area": "Técnico en contabilidad de operaciones comerciales y financieras",
+      "studyType": "Técnico",
+      "startDate": "2012-02-01",
+      "endDate": "2014-02-01",
+      "score": "4.0",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Básico",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Básico",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Básico",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Básico",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Hablante nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Básico"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "react-tesla-clone",
+      "isActive": true,
+      "description": "Clon de la pálicula Tesla",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
+      "highlights": [
+        "Tesla clone",
+        "React"
+      ],
+      "url": "https://gtrujilloca.github.io/react-tesla-clone/"
+    },
+    {
+      "name": "minimalistic-portfolio",
+      "isActive": true,
+      "description": "Minimalista Portfolio",
+      "startDate": "2024-02-01",
+      "endDate": "2024-02-11",
+      "highlights": [
+        "Portfolio",
+        "Astro"
+      ],
+      "url": "https://gtrujilloca.github.io/react-tesla-clone/"
+    }
+  ],
+  "keyboard_manager": {
+    "placeholder": "Buscar comando",
+    "press": "Presionar",
+    "command_palette": "para abrir la paleta de comandos"
+  },
+  "sections": [
+    "información",
+    "Experiencia",
+    "Educación",
+    "Habilidades",
+    "Proyectos"
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "basics": {
+    "name": "Carlos Alberto García Trujillo",
+    "label": "Frontend Developer",
+    "image": "/me.webp",
+    "email": "gtrujilloca@gmail.com",
+    "phone": "+57 3013116212",
+    "url": "https://",
+    "summary": "+2 years of experience as Frontend Developer. I live in Colombia, Manizales. I have worked in different environments, supporting different projects of multinational companies.",
+    "location": {
+      "address": "",
+      "postalCode": "170002",
+      "city": "Manizales",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "carlos-garcia",
+        "url": "https://www.linkedin.com/in/carlos-garcia-a57824176/"
+      },
+      {
+        "network": "X",
+        "username": "Carlos_G4rcia",
+        "url": "https://x.com/Carlos_G4rcia"
+      },
+      {
+        "network": "Github",
+        "username": "gtrujilloca",
+        "url": "https://github.com/gtrujilloca"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pragma",
+      "position": "Frontend developer",
+      "url": "https://www.pragma.co/",
+      "startDate": "2022-07-01",
+      "endDate": null,
+      "summary": "Development of applications for clients with Angular and React.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Easynet",
+      "position": "Frontend developer",
+      "url": "https://easynet.com.co/",
+      "startDate": "2021-06-01",
+      "endDate": "2022-06-20",
+      "summary": "Internal application support with Angular.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Freedom center",
+      "position": "Developer",
+      "url": "https://freedomcenter.com.co/",
+      "startDate": "2020-06-01",
+      "endDate": "2021-05-01",
+      "summary": "Development of applications for European client with nodejs and graphql.",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Manizales",
+      "url": "https://umanizales.edu.co/",
+      "area": "Systems and telecommunications engineering",
+      "studyType": "Bachelor",
+      "startDate": "2016-02-01",
+      "endDate": "2021-02-01",
+      "score": "4.0",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "SENA",
+      "url": "https://www.sena.edu.co/es-co/Paginas/default.aspx",
+      "area": "Technician in accounting of commercial and financial operations",
+      "studyType": "Technician",
+      "startDate": "2012-02-01",
+      "endDate": "2014-02-01",
+      "score": "4.0",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Medium",
+      "keywords": [
+        "Web development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Medium",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Responsive design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermedio",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Medium",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Basic",
+      "keywords": [
+        "Web development",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Basic",
+      "keywords": [
+        "SQL",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Version control",
+        "Source code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Version control",
+        "Source code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Basic",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Medium",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Medium",
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "react-tesla-clone",
+      "isActive": true,
+      "description": "Tesla clon with React",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
+      "highlights": [
+        "Tesla clone",
+        "React"
+      ],
+      "url": "https://gtrujilloca.github.io/react-tesla-clone/"
+    },
+    {
+      "name": "minimalistic-portfolio",
+      "isActive": true,
+      "description": "Minimalistic portfolio with React",
+      "startDate": "2024-02-01",
+      "endDate": "2024-02-11",
+      "highlights": [
+        "Portfolio",
+        "Astro"
+      ],
+      "url": "https://gtrujilloca.github.io/react-tesla-clone/"
+    }
+  ],
+
+  "keyboard_manager": {
+    "placeholder": "Search command",
+    "press": "Press",
+    "command_palette": "to open the command palette"
+  },
+  "sections": [
+    "About",
+    "Experience",
+    "Education",
+    "Skills",
+    "Projects"
+  ]
+}

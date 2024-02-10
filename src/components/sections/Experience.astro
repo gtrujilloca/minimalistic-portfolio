@@ -1,0 +1,75 @@
+---
+import type { Work } from "@/types";
+import Section from "@/components/Section.astro";
+
+interface Props {
+  work: Work[],
+  title: string,
+}
+
+const { work, title } = Astro.props;
+
+---
+
+<Section title={title}>
+  <ul>
+    {
+      work.map(({ name, position, startDate, endDate, summary }) => {
+        const startYear = new Date(startDate).getFullYear();
+        const endYear = endDate ? new Date(endDate).getFullYear() : "Present";
+
+        const years =
+          startYear === endYear ? startYear : `${startYear} - ${endYear}`;
+
+        return (
+          <li>
+            <article>
+              <header>
+                <div>
+                  <h3>{name}</h3>
+                  <h4>{position}</h4>
+                </div>
+
+                <time>{years}</time>
+              </header>
+              <footer>
+                <p>{summary}</p>
+                <p>{startDate}</p>
+              </footer>
+            </article>
+          </li>
+        );
+      })
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+
+    article {
+      header {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 4px;
+
+        h3 {
+          font-weight: 500;
+          color: #111;
+        }
+        h4 {
+          font-weight: 400;
+          color: #333;
+        }
+
+        time {
+          font-size: 0,85rem;
+          color: #666;
+        }
+      }
+    }
+  }
+</style>

@@ -1,0 +1,11 @@
+---
+  import Section from "@/components/Section.astro";
+  const { summary, title } = Astro.props;
+
+---
+
+<Section title={title}>
+  {
+    <p>{summary}</p>
+  }
+</Section>
