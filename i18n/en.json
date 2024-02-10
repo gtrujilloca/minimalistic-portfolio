@@ -292,7 +292,20 @@
         "Portfolio",
         "Astro"
       ],
-      "url": "https://gtrujilloca.github.io/react-tesla-clone/"
+      "url": "https://carlos-garcia-portfolio.netlify.app/"
+    },
+    {
+      "name": "react-socket-chat",
+      "isActive": true,
+      "description": "React and socket.io chat",
+      "startDate": "2024-02-01",
+      "endDate": "2024-02-11",
+      "highlights": [
+        "React",
+        "Socket",
+        "chat"
+      ],
+      "url": "https://react-socket-chat.netlify.app/"
     }
   ],
 
