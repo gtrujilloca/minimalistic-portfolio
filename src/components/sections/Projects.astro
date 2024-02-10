@@ -13,7 +13,7 @@ const { projects, title } = Astro.props;
 <Section title={title}>
   <ul>
     {
-      projects.map(({ name, url, description, highlights, isActive }) => (
+      projects.map(({ name, url, description, highlights }) => (
         <li>
           <article>
             <header>

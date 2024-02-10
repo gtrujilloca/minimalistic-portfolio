@@ -102,11 +102,9 @@ export interface Reference {
 
 export interface Skill {
   name:     string;
-  level:    Level;
+  level:    String;
   keywords: string[];
 }
-
-export type Level = "Avanzado" | "Intermedio" | "Master"
 
 export interface Work {
   organization?: string;
